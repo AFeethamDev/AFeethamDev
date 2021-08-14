@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alex Feetham</h1>
-<h3 align="center">A full-stack web developer from Boston, Massachusetts.</h3>
+<h3 align="center">A full-stack software developer from Boston, Massachusetts.</h3>
 
 - 🌱 I’m currently learning **Javascript, Node, and React.**
 
